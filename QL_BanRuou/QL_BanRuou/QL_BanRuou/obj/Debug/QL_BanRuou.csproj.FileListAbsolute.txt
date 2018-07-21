@@ -1,0 +1,270 @@
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\QL_BanRuou.exe
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\QL_BanRuou.pdb
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Data.v16.1.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Utils.v16.1.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraBars.v16.1.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Data.v16.1.xml
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Utils.v16.1.xml
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraBars.v16.1.xml
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csprojResolveAssemblyReference.cache
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.Properties.Resources.resources
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csproj.GenerateResource.Cache
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe.licenses
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe
+c:\users\anonymousnht\documents\visual studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.pdb
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmMain.resources
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucNhanVien.resources
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucKhachHang.resources
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucBackground.resources
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucMatHang.resources
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmNhaCC.resources
+C:\Users\AnonymousNHT\Documents\Visual Studio 2015\Projects\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmDungLuong.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.pdb
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\QL_BanRuou.exe
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\QL_BanRuou.pdb
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csprojResolveAssemblyReference.cache
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.Properties.Resources.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmDungLuong.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmNhaCC.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucBackground.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmMain.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucKhachHang.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucMatHang.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucNhanVien.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csproj.GenerateResource.Cache
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe.licenses
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmChatLieu.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmCongDung.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmDoRuou.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmHinhDang.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmLoai.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmMauSac.resources
+C:\Users\AnonymousNHT\Desktop\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmNuocSX.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.pdb
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\QL_BanRuou.exe
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\QL_BanRuou.pdb
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csprojResolveAssemblyReference.cache
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.Properties.Resources.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmChatLieu.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmCongDung.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmDoRuou.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmDungLuong.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmHinhDang.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmLoai.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmMauSac.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmNhaCC.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmNuocSX.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucBackground.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmMain.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucKhachHang.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucMatHang.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucNhanVien.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csproj.GenerateResource.Cache
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe.licenses
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmCongViec.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucDoanhThu.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csproj.ResolveComReference.cache
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucChart.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucHoaDonBan.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmThemHDB.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmThemHDN.resources
+C:\Users\HongSon\Desktop\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucHoaDonNhap.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\bin\Debug\QL_BanRuou.exe.config
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csproj.ResolveComReference.cache
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.pdb
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csprojResolveAssemblyReference.cache
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.Properties.Resources.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmChatLieu.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmCongDung.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmCongViec.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmDoRuou.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmDungLuong.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmHinhDang.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmLoai.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmMauSac.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmNhaCC.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmNuocSX.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmThemHDB.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmThemHDN.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucBackground.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.frmMain.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucChart.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucDoanhThu.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucHoaDonBan.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucHoaDonNhap.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucKhachHang.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucMatHang.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.View.ucNhanVien.resources
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.csproj.GenerateResource.Cache
+E:\Hoc hanh\nam 3\NET\QL_BanRuou\QL_BanRuou\QL_BanRuou\obj\Debug\QL_BanRuou.exe.licenses
